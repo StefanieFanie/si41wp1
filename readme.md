@@ -14,14 +14,23 @@ Kelas | SI41
 ### Tentang Repositori si41wp1
 ### Deskripsi
 Repositori ini berisi materi-materi praktikum yang diajarkan di mata kuliah Pengembangan Aplikasi Web I. 
-File-file dibuat dengan menggunakan HTML, CSS, JavaScript, dan Bootstrap. 
+Website dibuat dengan menggunakan HTML, CSS, JavaScript, dan Bootstrap. 
 Repositori ini dibuat dengan tujuan untuk menyimpan proyek atau file yang telah dibuat sekaligus untuk berbagi pengetahuan 
 mengenai apa yang telah didapatkan di mata kuliah ini. Repositori ini terdiri dari pembelajaran tentang HTML dasar, 
 image, form, CSS, Bootstrap, dasar JavaScript, dan lainnya.
 
 ### Instruksi
 Untuk mengedit kode ini bisa menggunakan Notepad++, Visual Studio Code, maupun editor lainnya, sedangkan untuk menjalankan kode tersebut 
-diperlukan browser seperti Google Chrome dan lainnya.
+diperlukan browser seperti Google Chrome maupun browser yang lain.
+
+### Salah satu contoh : Website Pendaftaran (pendaftaran.html)
+Website ini dibuat dengan menggunakan HTML dan CSS
+
+Website ini menggunakan metode pengiriman data yaitu post dimana setelah form disubmit, URL nya tetap (data tidak akan terlihat).
+Dalam form pendaftaran ini terdapat input type dalam bentuk text, radio (memilih salah satu opsi), number, submit untuk mengirimkan form, serta reset untuk 
+mengosongkan form (mengembalikan form ke keadaan semula). Selain itu juga terdapat textarea, option untuk memilih, dan lainnya. 
+Pengguna (calon mahasiswa) diminta menginput biodata dan informasi mengenai pendaftaran lalu submit jika data telah dirasa benar dan 
+reset jika ingin mengembalikan form ke keadaan semula.
 
 ---
 ### Tentang Saya
