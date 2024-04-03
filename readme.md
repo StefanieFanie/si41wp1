@@ -17,7 +17,7 @@ Repositori ini berisi materi-materi praktikum yang diajarkan di mata kuliah Peng
 File-file dibuat dengan menggunakan HTML, CSS, JavaScript, dan Bootstrap. 
 Repositori ini dibuat dengan tujuan untuk menyimpan proyek atau file yang telah dibuat sekaligus untuk berbagi pengetahuan 
 mengenai apa yang telah didapatkan di mata kuliah ini. Repositori ini terdiri dari pembelajaran tentang HTML dasar, 
-image, form, CSS, Bootstrap, dan dasar JavaScript.
+image, form, CSS, Bootstrap, dasar JavaScript, dan lainnya.
 
 ### Instruksi
 Untuk mengedit kode ini bisa menggunakan Notepad++, Visual Studio Code, maupun editor lainnya, sedangkan untuk menjalankan kode tersebut 
